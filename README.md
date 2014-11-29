@@ -11,7 +11,7 @@ Turning a Banana Pi/Pro into a powerful Wireless Router.
 
 BPi compared :
 
-table | a typical wifi router | a BPi router 
+  | a typical wifi router | a BPi wifi router 
 --- | --- | ---
 Memory|  8 - 129 MB | 1024 MB DDR3 memory
 CPU | MIPS @ 400 MHz | dual core ARMv7 @ 900MHz
