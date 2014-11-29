@@ -13,8 +13,8 @@ BPi compared :
 
 table | a typical wifi router | a BPi router 
 --- | --- | ---
-Memory|  8 - 129 MB | 2048 MB DDR3 memory
-CPU | MIPS @ 400 MHz | Dual core ARMv7 @ 900MHz
-Software| DD-WRT/customized | Linux 3.4(Freedom!)
+Memory|  8 - 129 MB | 1024 MB DDR3 memory
+CPU | MIPS @ 400 MHz | dual core ARMv7 @ 900MHz
+Software| DD-WRT/customized | Debian Linux 3.4
 Price | $20-$200 | $50
 Power Consumption | 2-20 watts| 8 watts
