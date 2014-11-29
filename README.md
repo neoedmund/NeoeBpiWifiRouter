@@ -10,7 +10,7 @@ Turning a Banana Pi/Pro into a powerful Wireless Router.
 ### Backgrounds
 
 Use a BPi as wifi router has some advantages:
-    | a typical wifi router | a BPi router  |
+table | a typical wifi router | a BPi router 
 --- | --- | ---
 Memory|  8 - 129 MB | 2048 MB DDR3 memory
 CPU | MIPS @ 400 MHz | Dual core ARMv7 @ 900MHz
